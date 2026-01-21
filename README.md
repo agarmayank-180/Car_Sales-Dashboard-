@@ -93,3 +93,7 @@ Understanding business-focused data visualization
 
 Improving analytical and storytelling skills using Power BI
 <img width="1244" height="679" alt="image" src="https://github.com/user-attachments/assets/55885ee4-9eba-425b-b9be-9d580220984a" />
+<img width="1275" height="679" alt="image" src="https://github.com/user-attachments/assets/2d5a017d-4f90-4103-9cfe-642f19580250" />
+<img width="1270" height="680" alt="image" src="https://github.com/user-attachments/assets/6a6ab3be-f42c-4d4e-9e4d-a59a7f42cfe2" />
+
+
