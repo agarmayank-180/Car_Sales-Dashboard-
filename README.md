@@ -92,3 +92,4 @@ Writing DAX measures for KPIs
 Understanding business-focused data visualization
 
 Improving analytical and storytelling skills using Power BI
+<img width="1244" height="679" alt="image" src="https://github.com/user-attachments/assets/55885ee4-9eba-425b-b9be-9d580220984a" />
